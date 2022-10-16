@@ -1,5 +1,5 @@
 # baseband_sampler
-Arduino shield sized baseband sampler. It uses an STM32F303RE Nucleo board. Communicates with a PC over USB-UART (230400 baud, 8n1).
+Arduino shield sized baseband sampler. It uses an STM32 F303RE Nucleo board and communicates over USB-UART (230400 baud, 8n1).
 
 <img src="https://github.com/M17-Project/baseband_sampler/blob/main/1.jpg?raw=true" width="700">
 
